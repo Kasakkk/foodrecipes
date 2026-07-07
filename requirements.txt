@@ -1,12 +1,10 @@
 streamlit
 pandas
+numpy
 scikit-learn
 nltk
-pillow
-numpy
+Pillow
 opencv-python
-tensorflow
-keras
 requests
 matplotlib
 seaborn
